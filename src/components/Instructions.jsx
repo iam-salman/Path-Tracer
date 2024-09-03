@@ -2,7 +2,7 @@ import React from "react";
 
 const Instructions = () => {
     return (
-        <div className="min-h-screen flex flex-col justify-center items-center pr-16 bg-gray-100 text-justify">
+        <div className="min-h-screen w-full flex flex-col justify-center items-center pr-16 bg-gray-100 text-justify">
             <h2 className="text-2xl font-bold mb-4">How to Play</h2>
             <ol className="list-decimal list-inside text-lg space-y-2">
                 <li>
